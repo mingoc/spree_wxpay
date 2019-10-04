@@ -1,0 +1,4 @@
+zh-CN:
+  spree:
+    wxpay_pid: 合作者身份(PID)
+    wxpay_key: 安全校验码(Key)
